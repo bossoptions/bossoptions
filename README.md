@@ -1,2 +1,2 @@
-# Think 10 times before writing.
+# Doing a little is much more than doing nothing
 
